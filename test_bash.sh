@@ -1,12 +1,11 @@
 #!/bin/bash
 
-cd 2_dimensions/src/
 mkdir __pycache__
 chmod 777 __pycache__
 
 touch testing_bash.txt
 echo "The simulation execution:" >> testing_bash.txt
-cat >> 2D_duration.txt <<EOL
+cat >> testing_bash <<EOL
 Got underway at
 Conluded at
 Took around
