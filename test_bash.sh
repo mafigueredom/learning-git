@@ -5,7 +5,7 @@ chmod 777 __pycache__
 
 touch testing_bash.txt
 echo "The simulation execution:" >> testing_bash.txt
-cat >> testing_bash <<EOL
+cat >> testing_bash.txt <<EOL
 Got underway at
 Conluded at
 Took around

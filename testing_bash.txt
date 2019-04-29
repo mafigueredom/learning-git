@@ -1,2 +1,4 @@
 The simulation execution:
-The simulation execution:
+Got underway at
+Conluded at
+Took around
